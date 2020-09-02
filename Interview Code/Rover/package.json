@@ -1,0 +1,11 @@
+{
+  "name": "interview-code",
+  "version": "1.0.0",
+  "description": "Creating a rover class to follow the given instructions",
+  "type": "module",
+  "scripts": {
+    "test": "node rover.js"
+  },
+  "author": "Austin Zensen",
+  "license": "ISC"
+}
